@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Study_CPP_Project_StatusWindow/Study_CPP_Project_StatusWindow.vcxproj" />
+</Solution>
